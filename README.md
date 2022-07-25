@@ -1,4 +1,4 @@
-[Draft] Birthday Card app - Solution Code for Birthday Card app codelab.
+Birthday Card app - Solution Code [Work in progress 🚧]
 ==========================================
 
 Introduction
