@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.birthdaycardapp;
+package com.example.happybirthday;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,4 +1,4 @@
-Birthday Card app - Solution Code [Work in progress 🚧]
+Birthday Card app - Solution Code
 ==========================================
 
 Introduction
